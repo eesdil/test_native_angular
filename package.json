@@ -1,0 +1,20 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.testnativeangular",
+		"tns-ios": {
+			"version": "1.7.0"
+		},
+		"tns-android": {
+			"version": "1.7.1"
+		}
+	},
+	"dependencies": {
+		"nativescript-angular": "0.0.38",
+		"nativescript-barcodescanner": "^1.2.2",
+		"tns-core-modules": "1.7.1"
+	},
+	"devDependencies": {
+		"nativescript-dev-typescript": "^0.3.1",
+		"typescript": "^1.8.9"
+	}
+}
