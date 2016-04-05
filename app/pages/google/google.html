@@ -1,1 +1,1 @@
-<WebView id="myWebView" [src]="url"></WebView>
+<WebView id="myWebView" [src]="url" (finishedLoading)="loaded($event)"></WebView>
